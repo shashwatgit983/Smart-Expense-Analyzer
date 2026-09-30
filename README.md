@@ -60,7 +60,7 @@ budget
 The current implementation starts with empty income and expense lists and a budget value of 0.
 
 Requirements
-Python 3.x
+Python 3.10+
 
 No external Python packages are required.
 
